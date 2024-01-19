@@ -1,0 +1,85 @@
+/*Reset */
+h1,h2,h3,h4,p {
+    margin: 0;
+}
+/*Reset */
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: #FFF;
+    width: 1440px;
+    height: 356px; 
+    display: flex;
+    justify-content: center; 
+    margin-top: 238px;       
+}
+.main {
+    width: 591px;
+    height: 161px;
+    flex-shrink: 0;
+    border: 1px solid #DADDDF;
+}
+.logo-nike {
+    margin-top: 17px;
+    margin-left: 17px;
+}
+.nike-name {
+    color: #0F1419;
+    font-weight: 700;
+    font-size: 15px;
+    margin-left: 12px;
+    margin-right: 3px;
+}
+.nike {
+    color: #536471;
+    font-weight: 400;
+    font-size: 15px;
+    margin-right: 4px;
+}
+.data {
+    color: #536471;
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 4px;
+}
+.first-line {
+    display: flex;    
+    align-items: center;
+}
+.logo-verif {
+    margin-right: 6px;
+}
+p {
+    color: #0F1419;
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+.second-line {
+    width: 430px;
+    height: 72px;
+    margin-left: 76px;
+    margin-top: -22px;
+}
+.third-line {
+    width: 430px;
+    height: 72px;
+    margin-left: 67px;
+    margin-top: -14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-3 {
+    margin-left: 17px;
+    margin-right: 73px;
+}
+.img-3-6mil {
+    margin-left: 17px;
+    margin-right: 73px;
+}
+.img-67mil {
+    margin-left: 17px;
+    margin-right: 73px;
+}
